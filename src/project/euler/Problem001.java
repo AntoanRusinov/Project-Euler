@@ -1,6 +1,10 @@
 package project.euler;
 
-public class MultiplesOf3And5 {
+/**
+ * @author Antoan
+ *
+ */
+public class Problem001 {
 
 	public static void main(String[] args) {
 
